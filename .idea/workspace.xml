@@ -115,8 +115,18 @@
   <component name="ProjectId" id="1Uunw0wV9j4EUQuHc72FeDjOtPg" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Admin/Controllers" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\code\MiCms\database\migrations\new" />
+      <recent name="C:\code\MiCms\app\Models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\MiCms\app\Admin\Controllers" />
+      <recent name="C:\code\MiCms\database\migrations" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576215582464</updated>
-      <workItem from="1576215584172" duration="2349000" />
+      <workItem from="1576215584172" duration="9045000" />
     </task>
     <servers />
   </component>
